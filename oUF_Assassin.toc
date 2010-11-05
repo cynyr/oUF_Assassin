@@ -1,0 +1,9 @@
+## Interface: 40000
+## Author: Cynyr
+## Version: 0.1
+## Title: oUF Assassin
+## Notes: An ouUF reminder to switch to backstab at 35%
+## RequiredDeps: oUF
+## OptionalDeps: oUF_DebuffHighlight, oUF_Experience, oUF_MovableFrames, oUF_BarFader
+
+oUF_Assassin.xml
